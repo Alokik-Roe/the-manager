@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/bottom"
+    app:startDestination="@id/projects">
+
+    <fragment
+        android:id="@+id/taskList"
+        android:name="com.bringtheaction.manager.bottomNavigationComponent.taskList"
+        android:label="fragment_task_list"
+        tools:layout="@layout/fragment_task_list" />
+    <fragment
+        android:id="@+id/notes"
+        android:name="com.bringtheaction.manager.bottomNavigationComponent.notes"
+        android:label="fragment_notes"
+        tools:layout="@layout/fragment_notes" />
+    <fragment
+        android:id="@+id/profile"
+        android:name="com.bringtheaction.manager.bottomNavigationComponent.profile"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/projects"
+        android:name="com.bringtheaction.manager.bottomNavigationComponent.projects"
+        android:label="fragment_projects"
+        tools:layout="@layout/fragment_projects" />
+</navigation>

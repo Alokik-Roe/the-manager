@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomAlertDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:windowBackground">@drawable/dialog_bg</item>
+    </style>
+
+    <style name="CustomImageBtn" parent="Widget.MaterialComponents.Button">
+        <item name="android:background">@drawable/calendar_show_selector</item>
+        <item name="rippleColor">@color/gray1</item>
+        <item name="android:width">8dp</item>
+        <item name="android:height">8dp</item>
+    </style>
+
+
+    <style name="Widget.App.Button.Button.IconOnly" parent="Widget.MaterialComponents.Button.UnelevatedButton">
+        <item name="iconPadding">0dp</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:paddingLeft">4dp</item>
+        <item name="android:paddingRight">4dp</item>
+    </style>
+
+
+
+    <style name="CustomBackground" parent="TextAppearance.AppCompat.Light.Widget.PopupMenu.Large">
+        <item name="android:popupBackground">@drawable/rounded_cornor</item>
+        <item name="android:dropDownHorizontalOffset">-4dp</item>
+        <item name="android:dropDownVerticalOffset">4dp</item>
+    </style>
+
+
+
+</resources>

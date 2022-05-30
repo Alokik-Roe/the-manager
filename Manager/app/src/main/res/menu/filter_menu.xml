@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/incomplete"
+        android:title=" Incomplete Tasks" />
+    <item
+        android:id="@+id/complete"
+        android:title="Completed Tasks" />
+    <item
+        android:id="@+id/allTasks"
+        android:title="Show All" />
+</menu>

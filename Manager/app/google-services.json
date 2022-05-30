@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "254869104963",
+    "firebase_url": "https://the-manager-5c71e-default-rtdb.firebaseio.com",
+    "project_id": "the-manager-5c71e",
+    "storage_bucket": "the-manager-5c71e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254869104963:android:adfdf8a54d0018af35a7f6",
+        "android_client_info": {
+          "package_name": "com.bringtheaction.manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254869104963-bkji4umnvikel10uogi69rimbd44ofua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDetEAh1p0Lfz8xBKkly-tni0-X9etOhnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254869104963-bkji4umnvikel10uogi69rimbd44ofua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

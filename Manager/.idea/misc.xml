@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Manager/app/src/main/res/drawable-v24/calendar_show_selector.xml" value="0.2365" />
+        <entry key="..\:/Manager/app/src/main/res/drawable-v24/circle.xml" value="0.2365" />
+        <entry key="..\:/Manager/app/src/main/res/drawable-v24/color_selector.xml" value="0.2365" />
+        <entry key="..\:/Manager/app/src/main/res/drawable-v24/ic_add.xml" value="0.2365" />
+        <entry key="..\:/Manager/app/src/main/res/drawable-v24/ic_cross.xml" value="0.2365" />
+        <entry key="..\:/Manager/app/src/main/res/drawable-v24/ic_projects.xml" value="0.2365" />
+        <entry key="..\:/Manager/app/src/main/res/drawable-v24/ic_quick.xml" value="0.2365" />
+        <entry key="..\:/Manager/app/src/main/res/drawable-v24/ic_tag.xml" value="0.2365" />
+        <entry key="..\:/Manager/app/src/main/res/drawable-v24/task_selector.xml" value="0.2365" />
+        <entry key="..\:/Manager/app/src/main/res/drawable-v24/task_selector2.xml" value="0.2365" />
+        <entry key="..\:/Manager/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Manager/app/src/main/res/layout/activity_new_task.xml" value="0.33" />
+        <entry key="..\:/Manager/app/src/main/res/layout/activity_quick_note.xml" value="0.21920289855072464" />
+        <entry key="..\:/Manager/app/src/main/res/layout/dialog_add.xml" value="0.5" />
+        <entry key="..\:/Manager/app/src/main/res/layout/fragment_month.xml" value="0.21614583333333334" />
+        <entry key="..\:/Manager/app/src/main/res/layout/fragment_notes.xml" value="0.2869791666666667" />
+        <entry key="..\:/Manager/app/src/main/res/layout/fragment_profile.xml" value="0.39906832298136646" />
+        <entry key="..\:/Manager/app/src/main/res/layout/fragment_projects.xml" value="0.340625" />
+        <entry key="..\:/Manager/app/src/main/res/layout/fragment_task_list.xml" value="0.25" />
+        <entry key="..\:/Manager/app/src/main/res/layout/fragment_today.xml" value="0.21614583333333334" />
+        <entry key="..\:/Manager/app/src/main/res/layout/note_list.xml" value="0.23489583333333333" />
+        <entry key="..\:/Manager/app/src/main/res/layout/project_list.xml" value="0.31927083333333334" />
+        <entry key="..\:/Manager/app/src/main/res/layout/task_list.xml" value="0.21614583333333334" />
+        <entry key="..\:/Manager/app/src/main/res/menu/filter_menu.xml" value="0.21614583333333334" />
+        <entry key="..\:/Manager/app/src/main/res/menu/navigation.xml" value="0.67" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

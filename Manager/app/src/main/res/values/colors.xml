@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gray">#747474</color>
+    <color name="black">#FF000000</color>
+    <color name="color1">#F25E5E</color>
+    <color name="color2">#FFFFFFFF</color>
+    <color name="color3">#5E75F2</color>
+    <color name="gray1">#EBEBEB</color>
+    <color name="grayba">#F0F0F0</color>
+    <color name="nightGrCa">#ff424242</color>
+    <color name="bottom">#2F3659</color>
+    <color name="radio1">#5E75F2</color>
+    <color name="radio2">#E42B6A</color>
+    <color name="radio3">#5ABB56</color>
+    <color name="radio4">#3D3A62</color>
+    <color name="radio5">#F4CA8F</color>
+
+</resources>
