@@ -6,7 +6,7 @@ The current version of the app lets the user to add mulitple projects and differ
 
 The Android app has been build using Java as backend language, and Firebase as Database.
 
-Currently, this app can only be used to track projects including one person that is the user itself, future work revolves around developing feature to add more people from contact list same project, therefore evolving the scope of this as more of project management android app.
+Currently, this app can only be used to track projects including one person that is the user itself, future work revolves around developing feature to add more people from contact list in the same project, therefore evolving the scope of this as more of a project management android app.
 
 
 # To use the project
